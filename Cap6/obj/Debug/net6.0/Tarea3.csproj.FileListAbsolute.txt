@@ -1,0 +1,15 @@
+D:\Universidad\P aplicada\Teoria Aplicada\tarea3\bin\Debug\net6.0\Tarea3.exe
+D:\Universidad\P aplicada\Teoria Aplicada\tarea3\bin\Debug\net6.0\Tarea3.deps.json
+D:\Universidad\P aplicada\Teoria Aplicada\tarea3\bin\Debug\net6.0\Tarea3.runtimeconfig.json
+D:\Universidad\P aplicada\Teoria Aplicada\tarea3\bin\Debug\net6.0\Tarea3.dll
+D:\Universidad\P aplicada\Teoria Aplicada\tarea3\bin\Debug\net6.0\Tarea3.pdb
+D:\Universidad\P aplicada\Teoria Aplicada\tarea3\obj\Debug\net6.0\Tarea3.csproj.AssemblyReference.cache
+D:\Universidad\P aplicada\Teoria Aplicada\tarea3\obj\Debug\net6.0\Tarea3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\P aplicada\Teoria Aplicada\tarea3\obj\Debug\net6.0\Tarea3.AssemblyInfoInputs.cache
+D:\Universidad\P aplicada\Teoria Aplicada\tarea3\obj\Debug\net6.0\Tarea3.AssemblyInfo.cs
+D:\Universidad\P aplicada\Teoria Aplicada\tarea3\obj\Debug\net6.0\Tarea3.csproj.CoreCompileInputs.cache
+D:\Universidad\P aplicada\Teoria Aplicada\tarea3\obj\Debug\net6.0\Tarea3.dll
+D:\Universidad\P aplicada\Teoria Aplicada\tarea3\obj\Debug\net6.0\refint\Tarea3.dll
+D:\Universidad\P aplicada\Teoria Aplicada\tarea3\obj\Debug\net6.0\Tarea3.pdb
+D:\Universidad\P aplicada\Teoria Aplicada\tarea3\obj\Debug\net6.0\Tarea3.genruntimeconfig.cache
+D:\Universidad\P aplicada\Teoria Aplicada\tarea3\obj\Debug\net6.0\ref\Tarea3.dll

@@ -1,0 +1,15 @@
+D:\Universidad\P aplicada\Teoria Aplicada\Tarea3\Cap7\bin\Debug\net6.0\Cap7.exe
+D:\Universidad\P aplicada\Teoria Aplicada\Tarea3\Cap7\bin\Debug\net6.0\Cap7.deps.json
+D:\Universidad\P aplicada\Teoria Aplicada\Tarea3\Cap7\bin\Debug\net6.0\Cap7.runtimeconfig.json
+D:\Universidad\P aplicada\Teoria Aplicada\Tarea3\Cap7\bin\Debug\net6.0\Cap7.dll
+D:\Universidad\P aplicada\Teoria Aplicada\Tarea3\Cap7\bin\Debug\net6.0\Cap7.pdb
+D:\Universidad\P aplicada\Teoria Aplicada\Tarea3\Cap7\obj\Debug\net6.0\Cap7.csproj.AssemblyReference.cache
+D:\Universidad\P aplicada\Teoria Aplicada\Tarea3\Cap7\obj\Debug\net6.0\Cap7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\P aplicada\Teoria Aplicada\Tarea3\Cap7\obj\Debug\net6.0\Cap7.AssemblyInfoInputs.cache
+D:\Universidad\P aplicada\Teoria Aplicada\Tarea3\Cap7\obj\Debug\net6.0\Cap7.AssemblyInfo.cs
+D:\Universidad\P aplicada\Teoria Aplicada\Tarea3\Cap7\obj\Debug\net6.0\Cap7.csproj.CoreCompileInputs.cache
+D:\Universidad\P aplicada\Teoria Aplicada\Tarea3\Cap7\obj\Debug\net6.0\Cap7.dll
+D:\Universidad\P aplicada\Teoria Aplicada\Tarea3\Cap7\obj\Debug\net6.0\refint\Cap7.dll
+D:\Universidad\P aplicada\Teoria Aplicada\Tarea3\Cap7\obj\Debug\net6.0\Cap7.pdb
+D:\Universidad\P aplicada\Teoria Aplicada\Tarea3\Cap7\obj\Debug\net6.0\Cap7.genruntimeconfig.cache
+D:\Universidad\P aplicada\Teoria Aplicada\Tarea3\Cap7\obj\Debug\net6.0\ref\Cap7.dll
